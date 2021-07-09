@@ -1,0 +1,25 @@
+
+Cell test disconnected node: D
+
+Subcircuit summary:
+Circuit 1: test                            |Circuit 2: test                            
+-------------------------------------------|-------------------------------------------
+cell1 (1)                                  |cell1 (1)                                  
+cell2 (1)                                  |cell2 (1)                                  
+cell3 (1)                                  |cell3 (1)                                  
+Number of devices: 3                       |Number of devices: 3                       
+Number of nets: 3                          |Number of nets: 3                          
+---------------------------------------------------------------------------------------
+Circuits match uniquely.
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: test                            |Circuit 2: test                            
+-------------------------------------------|-------------------------------------------
+C                                          |(no matching pin)                          
+B                                          |B                                          
+A                                          |A                                          
+(no matching pin)                          |D                                          
+---------------------------------------------------------------------------------------
+Cell pin lists for test and test altered to match.
+The top level cell failed pin matching.

@@ -1,0 +1,15 @@
+
+Subcircuit summary:
+Circuit 1: netA.spice                      |Circuit 2: netB.spice                      
+-------------------------------------------|-------------------------------------------
+cell1 (1)                                  |cell1 (1)                                  
+cell2 (1)                                  |cell2 (1)                                  
+cell3 (1)                                  |cell3 (1)                                  
+Number of devices: 3                       |Number of devices: 3                       
+Number of nets: 3                          |Number of nets: 3                          
+---------------------------------------------------------------------------------------
+Circuits match uniquely.
+Netlists match uniquely.
+Cells have no pins;  pin matching not needed.
+Device classes netA.spice and netB.spice are equivalent.
+Circuits match uniquely.
