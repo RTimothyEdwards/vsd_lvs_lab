@@ -1,3 +1,7 @@
+`include mgmt_protect_hv.v
+`include mprj_logic_high.v
+`include mprj2_logic_high.v
+
 module mgmt_protect (caravel_clk,
     caravel_clk2,
     caravel_rstn,
